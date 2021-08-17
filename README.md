@@ -22,3 +22,18 @@ decisions.
     - The ability to choose a breed and display the image for it
 - Bonus Feature:
   - Ability to add a new breed with a new image
+
+
+### My Notes
+- I leveraged the following React app / express server boilerplate: 
+https://github.com/crsandeep/simple-react-full-stack
+
+- I completed the backend API features and the frontend features, but not the bonus feature.
+
+- I did not spend time making things pretty with CSS, I'm not sure if we were supposed to or if this was just a test of my ability to complete the tasks.
+
+- I went a bit over the 2 hour mark as I was a bit slow to get things started at the beginning, and wasn't so familiar with serving images/files via express, so I had to read some documentation. 
+
+- For an app this small / simple, I do not believe I needed to abstract the functionality into their own components like I did, but this is more similar to how I would likely structure a real app like this, so I thought it best to replicate that. 
+
+- To run the app, simply "npm run start"

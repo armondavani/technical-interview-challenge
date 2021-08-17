@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.list-of-breeds{
+  display: flex;
+  flex-direction: column;
+}
+
+.breed-name{
+  cursor: pointer;
+  margin: 8px;
+}
+
+.individual-breed-image{
+  max-height: 60vh;
+}
