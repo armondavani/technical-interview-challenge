@@ -37,3 +37,5 @@ https://github.com/crsandeep/simple-react-full-stack
 - For an app this small / simple, I do not believe I needed to abstract the functionality into their own components like I did, but this is more similar to how I would likely structure a real app like this, so I thought it best to replicate that. 
 
 - To run the app, simply "npm run start"
+
+- I chose react and express simply because I experience with them, and I do not hav eexperience with Elixir. It also felt like these were all I needed as it was such a simple app, so I did not need the likes of GraphQL for example. 
